@@ -1,4 +1,4 @@
-package com.serhat.web.resttemplate;
+package com.serhat.web.productclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
